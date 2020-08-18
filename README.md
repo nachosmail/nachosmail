@@ -1,4 +1,7 @@
 ### Welcome! 👋
+tw: @nachosmail
+linkedin: https://linkedin.com/in/ignacio-smail
+
 
 <!--
 **nachosmail/nachosmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
