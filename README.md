@@ -1,6 +1,6 @@
 ### Welcome! 👋
-tw: @nachosmail
-linkedin: https://linkedin.com/in/ignacio-smail
+## tw: @nachosmail
+## linkedin: https://linkedin.com/in/ignacio-smail
 
 
 <!--
