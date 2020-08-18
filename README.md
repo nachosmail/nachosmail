@@ -1,5 +1,4 @@
 # Welcome! 👋
-### tw: @nachosmail
 ### linkedin: https://linkedin.com/in/ignacio-smail
 
 
