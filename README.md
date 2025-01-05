@@ -1,5 +1,6 @@
 # Welcome! 👋
 ### linkedin: https://linkedin.com/in/ignacio-smail
+### Online CV: https://nachosmail.github.io/cv-landing-page
 
 
 <!--
